@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deviare Custom Hook Launcher", "Deviare Custom Hook Launcher\Deviare Custom Hook Launcher.csproj", "{7F9D30BD-C485-48CC-9FBC-D4C173D1A930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRegistryPlugin", "Plugin\MyRegistryPlugin.csproj", "{FE457EB7-EFFF-44B6-840C-CF7D7E142A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9D30BD-C485-48CC-9FBC-D4C173D1A930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9D30BD-C485-48CC-9FBC-D4C173D1A930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE457EB7-EFFF-44B6-840C-CF7D7E142A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE457EB7-EFFF-44B6-840C-CF7D7E142A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
